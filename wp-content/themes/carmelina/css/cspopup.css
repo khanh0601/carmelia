@@ -1,0 +1,9 @@
+.modal-body .close{
+	background: transparent;
+
+}
+@media (min-width: 992px){
+	.modal-lg {
+		max-width: 1000px;
+	}	
+}
